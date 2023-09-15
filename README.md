@@ -9,3 +9,5 @@ My main focus nowadays is around devops: build pipelines, deployments, Docker, K
 I am an open-source enthusiast. I am part of Homebrew's technical committee (the missing package manager for Mac (or Linux)): https://github.com/Homebrew/brew. I am also the lead maintainer of the pygccxml Python library.
 
 I have a PhD in Physics from the University of Lille 1. I speak French, German, English and Luxembourgish. I regularly run marathons (and sometimes even longer distances than that).
+
+<a href="https://mastodon.imichka.me/@imichka" rel="me">Follow me on Mastodon!</a>
