@@ -1,6 +1,6 @@
 ## About
 
-I am the lead DevOps (lead of the DevOps, SysOps and DBA team) of the Mobility Business and Mobility Connect website at TotalEnergies.
+I am the lead DevOps (lead of the DevOps, SysOps and DBA team) of the Mobility Business website at TotalEnergies.
 
 I am also a Python developer with more than 10 years of experience. I also have 3 years of experience in Java programming.
 
