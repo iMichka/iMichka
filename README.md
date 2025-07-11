@@ -1,13 +1,16 @@
-## About
+🔧 Engineering Manager | Cloud Infrastructure | DevOps | FinOps | Cybersecurity | Open Source Advocate
 
-I am the lead DevOps (lead of the DevOps, SysOps and DBA team) of the Mobility Business website at TotalEnergies.
+I'm currently Engineering Manager of the Ops team at WayKonect (a TotalEnergies subsidiary), based in Lille. I lead the design and operation of our AWS cloud infrastructure supporting the Mobility Business and Charge+ products. I also oversee FinOps strategy and play a key role in cybersecurity for our platforms.
 
-I am also a Python developer with more than 10 years of experience. I also have 3 years of experience in Java programming.
+With over a decade of experience as a Python developer (and 3 years in Java), I bring deep technical expertise to my leadership role.
 
-My main focus nowadays is around devops: build pipelines, deployments, Docker, Kubernetes, Terraform, Azure Cloud / AWS ...
+🐙 You can find my open source contributions on GitHub: github.com/iMichka.
 
-I am an open-source enthusiast. I am part of Homebrew's technical committee (the missing package manager for Mac (or Linux)): https://github.com/Homebrew/brew. I am also the lead maintainer of the pygccxml Python library.
+I'm passionate about open source and serve on the Homebrew leadership committee.
+I'm also the lead maintainer of the pygcxml library.
 
-I have a PhD in Physics from the University of Lille 1. I speak French, German, English and Luxembourgish. I regularly run marathons (and sometimes even longer distances than that).
+🎓 I hold a PhD in Physics from the University of Lille 1 and speak French, English, German, Luxembourgish, and a bit of Esperanto.
 
-<a href="https://mastodon.imichka.me/@imichka" rel="me">Follow me on Mastodon!</a>
+🏃‍♂️ Outside of work, I’m a dedicated long-distance runner, regularly participating in marathons—and occasionally pushing beyond.
+
+🐘 Mastodon: https://mastodon.imichka.me/@imichka
