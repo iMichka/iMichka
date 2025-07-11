@@ -4,7 +4,7 @@ I'm currently Engineering Manager of the Infrastructure team at WayKonect (a Tot
 
 With over a decade of experience as a Python developer (and 3 years in Java), I bring deep technical expertise to my leadership role.
 
-🐙 You can find my open source contributions on GitHub: [github.com/iMichka](https://github.com/iMichka).
+🐙 You can find my open source contributions on GitHub: [github.com/iMichka](https://github.com/iMichka)
 
 I'm passionate about open source and serve on the Homebrew leadership committee.
 I'm also the lead maintainer of the pygcxml library.
