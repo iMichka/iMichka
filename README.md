@@ -1,6 +1,6 @@
 🔧 Engineering Manager | Cloud Infrastructure | DevOps | FinOps | Cybersecurity | Open Source Advocate
 
-I'm currently Engineering Manager of the Ops team at WayKonect (a TotalEnergies subsidiary), based in Lille. I lead the design and operation of our AWS cloud infrastructure supporting the Mobility Business and Charge+ products. I also oversee FinOps strategy and play a key role in cybersecurity for our platforms.
+I'm currently Engineering Manager of the Infrastructure team at WayKonect (a TotalEnergies subsidiary), based in Lille. I lead the design and operation of our AWS cloud infrastructure supporting the Mobility Business and Charge+ products. I also oversee FinOps strategy and play a key role in cybersecurity for our platforms.
 
 With over a decade of experience as a Python developer (and 3 years in Java), I bring deep technical expertise to my leadership role.
 
